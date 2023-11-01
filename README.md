@@ -14,4 +14,4 @@ one-to-one and onto function (bijection) $f: V_1 \rightarrow V_2$ such that $(u,
 # Response
 Consider two completely connected graphs of the same size n, $G_A$ and $G_B$. For a completely connected graph, each node has an edge connecting it to each other node in the graph. Now, consider a function $f$ which starts with an arbitrary node in $G_A$ and maps it to an arbitrary node in $G_B$. The function $f$ then repeats this process for each node in $G_A$ which hasn't been mapped to a node in $G_B$, and no node in $G_B$ has two nodes from $G_A$ mapped to it. Since $G_A$ and $G_B$ have the same number of nodes n, $f$ is a bijective function, as it is both one-to-one and onto.
 
-Now, since $G_A$ and $G_B$ are completely connected graphs, it follows that each edge in $G_A$ will map to an equivalent edge in $G_B$. Therefore, if two completely graphs are of the same size, they are isomorphic.
+Now, since $G_A$ and $G_B$ are completely connected graphs, it follows that each edge in $G_A$ will correspond to an equivalent edge in $G_B$. Therefore, if two completely graphs are of the same size, they are isomorphic.
